@@ -1,0 +1,8 @@
+C:\Users\mehmet.calis\source\repos\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.csproj.AssemblyReference.cache
+C:\Users\mehmet.calis\source\repos\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehmet.calis\source\repos\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.calis\source\repos\LoggingSystem\LoggingSystem\bin\Debug\LoggingSystem.exe.config
+C:\Users\mehmet.calis\source\repos\LoggingSystem\LoggingSystem\bin\Debug\LoggingSystem.exe
+C:\Users\mehmet.calis\source\repos\LoggingSystem\LoggingSystem\bin\Debug\LoggingSystem.pdb
+C:\Users\mehmet.calis\source\repos\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.exe
+C:\Users\mehmet.calis\source\repos\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.pdb
