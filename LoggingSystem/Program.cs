@@ -15,7 +15,7 @@ namespace LoggingSystem
             var consoleLogger = loggerFactory.CreateLogger(LoggerType.Console);
             consoleLogger.Log("Console log message.");
 
-            var fileLogger = loggerFactory.CreateLogger(LoggerType.File, "log.txt");
+            var fileLogger = loggerFactory.CreateLogger(LoggerType.File, "C:/MehmetCalis/Şirket Proje Notları/Elastic Search Job/log.txt");
             fileLogger.Log("File log message.");
 
             var inMemoryLogger = loggerFactory.CreateLogger(LoggerType.InMemory, logStore: new List<string>());
